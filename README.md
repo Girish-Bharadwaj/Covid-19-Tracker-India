@@ -4,5 +4,5 @@
 >Thanks to "https://apify.com/covid-19" and "https://disease.sh/" for providing information.
 
 
->Screenshots of the app
-![]("..\Screenshot(122).png")
+
+
