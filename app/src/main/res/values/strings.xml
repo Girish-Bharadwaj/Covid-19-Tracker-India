@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid-19_Tracker</string>
+    <string name="hello">Hello</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Covid-19 Tracker</string>
+    <string name="Global_Stats">ಜಾಗತಿಕ ಕರೋನಾ ಅಂಕಿಅಂಶಗಳು</string>
+</resources>
