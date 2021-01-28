@@ -11,6 +11,7 @@ Thanks to "https://apify.com/covid-19" and "https://disease.sh/" for providing i
 ![States Details](/Screenshots/StatesDetails.png)
 
 
-
+ <video style="height: 50vh;" src="/Screen_Recording_20201109-164651.mp4" controls>
+ </video>
 
 
